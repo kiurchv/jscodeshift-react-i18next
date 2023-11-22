@@ -9,5 +9,8 @@
     "json-stable-stringify": "^1.0.2",
     "lodash": "^4.17.21",
     "slugify": "^1.6.5"
+  },
+  "dependencies": {
+    "openai": "^4.19.1"
   }
 }
